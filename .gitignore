@@ -1,0 +1,14 @@
+#IDE
+.idea
+
+#build
+node_modules
+build/public
+build/server.js
+build/auth-log.txt
+
+package-lock.json
+yarn.lock
+
+#logs
+yarn-error.log
